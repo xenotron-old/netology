@@ -53,12 +53,12 @@ services: {}
 
 volumes: {}  
 
-networks:  
+```networks:  
   udalovrm-my-netology-hw:  
     driver: bridge  
     ipam:  
       config:  
-        - subnet: 10.5.0.0/16  
+        - subnet: 10.5.0.0/16```
 ______________________
 
 
