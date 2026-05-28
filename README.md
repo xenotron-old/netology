@@ -45,19 +45,21 @@
     networks.
 
 При выполнении задания используйте подсеть 10.5.0.0/16. Ваша подсеть должна называться: <ваши фамилия и инициалы>-my-netology-hw. Все приложения из последующих заданий должны находиться в этой конфигурации.
+_______________________
 
-```version: '3.8'
+version: '3.8'  
 
-services: {}
+services: {}  
 
-volumes: {}
+volumes: {}  
 
-networks:
-  udalovrm-my-netology-hw:
-    driver: bridge
-    ipam:
-      config:
-        - subnet: 10.5.0.0/16```
+networks:  
+  udalovrm-my-netology-hw:  
+    driver: bridge  
+    ipam:  
+      config:  
+        - subnet: 10.5.0.0/16  
+______________________
 
 
 ---
