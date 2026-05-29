@@ -1,3 +1,5 @@
+**Домашнее задание к занятию "Docker. Часть 2" - Удалов Р.М.**
+
 **Задание 1**
 
 Напишите ответ в свободной форме, не больше одного абзаца текста.
@@ -87,5 +89,19 @@ _______________________
     docker-compose.yml целиком;
     скриншот команды docker ps после запуске docker-compose.yml;
     скриншот графика, постоенного на основе вашей метрики.
+    
+    ![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/docker%20up.png)
+    ![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/grafana.png)
+
+
+Задание 8
+
+Выполните действия:
+
+    Остановите и удалите все контейнеры одной командой.
+
+В качестве решения приложите скриншот консоли с проделанными действиями.
+
+  ![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/docker%20down.png)
 
 
