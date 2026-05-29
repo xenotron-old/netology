@@ -90,8 +90,8 @@ _______________________
     скриншот команды docker ps после запуске docker-compose.yml;
     скриншот графика, постоенного на основе вашей метрики.
     
-    ![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/docker%20up.png)
-    ![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/grafana.png)
+![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/docker%20up.png)
+![alt text](https://github.com/xenotron-old/netology/blob/xenotron-old-6-04/grafana.png)
 
 
 Задание 8
